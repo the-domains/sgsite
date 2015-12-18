@@ -1,0 +1,28 @@
+name: SGSite
+favicon: null
+layout_spectrum: 0.7308976969216019
+typography_spectrum: 0.7897683712653816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.568744441261515
+  lightness: 0.8216679827310145
+  saturation: 0.2653841271530837
+  rhythmicContrast: 0.533548642648384
+purpose: []
